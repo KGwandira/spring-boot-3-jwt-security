@@ -1,0 +1,14 @@
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\demo\DemoController.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\user\UserRepository.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\config\JwtService.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\config\ApplicationConfig.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\auth\AuthenticationResponse.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\auth\AuthenticationService.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\auth\AuthenticationRequest.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\config\SecurityConfiguration.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\auth\AuthenticationController.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\config\JwtAuthenticationFilter.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\auth\RegisterRequest.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\SecurityApplication.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\user\Role.java
+C:\Users\KGwandira\Desktop\personal\Spring\spring-boot-3-jwt-security\src\main\java\com\alibou\security\user\User.java
